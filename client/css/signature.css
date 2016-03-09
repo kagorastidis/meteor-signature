@@ -1,0 +1,31 @@
+/* CSS declarations go here */
+html{
+	font-size:10px;
+}
+
+p{
+	font-size:1.6rem;
+	line-height: 178%;
+}
+
+h1{
+	margin-bottom: 5rem;
+}
+
+#simple_sketch{
+	border: 1px solid #1b1b1b;
+	width:100%;
+}
+
+.submit,.reset, .signatures{
+	margin-top:3rem;
+	margin-right: 2rem;
+}
+
+.thumb:hover{
+	cursor:pointer;
+}
+
+.well{
+	min-height: 250px;
+}
